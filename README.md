@@ -16,6 +16,7 @@
 - maven
 - net6.0
 - C#
+- Virtual Serial Port (para pruebas)
  
 <h2 id="started">🚀 Getting started</h2>
 
@@ -29,3 +30,4 @@ Librerias requeridas.:
 
 - [jSerialComm](https://fazecast.github.io/jSerialComm/) (Java 8, 11)
 - [System.IO.Ports] se instala mediante NuGet (C#, .net)
+- [Virtual Serial Port](https://www.virtual-serial-port.org)
